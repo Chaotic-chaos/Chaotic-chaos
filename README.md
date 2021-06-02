@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chaotic-chaos&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaotic-chaos&theme=vue-dark)
+
+<hr>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaotic-chaos&theme=vue-dark&layout=compact)

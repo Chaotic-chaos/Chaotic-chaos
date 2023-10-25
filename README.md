@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaotic-chaos&theme=vue-dark&layout=compact)
+
+![My AI](https://codeium.com/profile/smugly-curious-bongo-68273/card.png)

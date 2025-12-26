@@ -2,6 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/99857e90-b9c1-42d4-a983-8534e33dedaa.svg)](https://wakatime.com/@99857e90-b9c1-42d4-a983-8534e33dedaa)
 
+![](https://green-wall.leoku.dev/api/og/share/Chaotic-chaos)
+
 <!--
 **Chaotic-chaos/Chaotic-chaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
